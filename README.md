@@ -5,4 +5,4 @@
 📕 There are some of my projects<br>
 <br>
 
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=let-fughes&show_icons=true&theme=tokyonight)
