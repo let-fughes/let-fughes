@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Java developer<br>💼 I am currently doing an internship at InnoWise Group<br>🎓 And studying in Belarusian State University of Informatics and Radioelectronics<br>🔭 Now I am working on internship course<br>📚 Studying Docker
+💻 Java developer<br>🎓 And studying in Belarusian State University of Informatics and Radioelectronics<br>📚 Studying Docker
 
 
 # 💻 Tech Stack:
