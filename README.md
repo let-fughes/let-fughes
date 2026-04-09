@@ -1,5 +1,18 @@
 # 💫 About Me:
-💻 Java developer<br>🎓 And studying in Belarusian State University of Informatics and Radioelectronics<br>📚 Studying Docker
+# Backend Developer | Java & Systems Engineering
+
+## Technical Stack
+
+- **Languages:** Java, C, SQL, Kotlin, Python.
+- **Frameworks:** Spring Boot (Data, Security, Cloud), Hibernate.
+- **Database:** PostgreSQL, MySQL (Complex queries, Schema design).
+- **OS & Tools:** Arch Linux, Bash, Git, Docker, SSH.
+
+## Professional Interests
+
+- **Backend:** Designing robust microservice architectures.
+- **System Programming:** Memory management and performance in C.
+- **Data:** Reliable data processing and storage optimization.
 
 
 # 💻 Tech Stack:
