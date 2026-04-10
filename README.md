@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Backend Developer | Java & Systems Engineering
+# 💫 Backend Developer | Java & Systems Engineering
 
 ## Technical Stack
 
